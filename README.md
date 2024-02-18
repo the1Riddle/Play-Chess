@@ -41,4 +41,4 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
 <br>
-Or if you want to play it on your local machine with family and friend, checkout [ChessUI](https://github.com/the-1Riddle/ChessUI)~ Enjoy the game.
+Or want to play it on your local machine with family and friends, checkout [ChessUI](https://github.com/the-1Riddle/ChessUI)~ Enjoy the game.
